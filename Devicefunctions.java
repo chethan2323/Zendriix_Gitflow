@@ -3,10 +3,16 @@ class DeviceFunction{
 {  
 system.out.println("This is main function");    
 }
-sum();  
+sum();
+sub();  
 }  
 
 void sum
+{
+//code
+}
+
+void sub()
 {
 //code
 }
