@@ -4,15 +4,20 @@ class DeviceFunction{
 system.out.println("This is main function");    
 }
 sum();
-div();  
+sub();  
+div(); 
 }  
 
 void sum
 {
 //code
 }
-
-void div()
+void sub()
 {
 //code
 }
+void div()
+{
+  //code
+}
+
